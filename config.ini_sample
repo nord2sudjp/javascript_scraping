@@ -1,0 +1,6 @@
+[settings]
+downloadfolder = C:\Temp
+targeturl = http://www.xxx.com/excel_page.html
+src = "C:\\src\\aaa.xlsx"
+dst = "C:\\dst\\aaa.xlsx"
+
